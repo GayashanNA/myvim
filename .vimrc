@@ -11,7 +11,6 @@ syntax on   "enable syntax highlighting
 set sw=4 sts=4 ts=4 et  "shiftwidth=4, softtabstop=4, tabstop=4, expandtab
 set ruler   "show ruler (cursor position w.r.t. row,column on screen)
 set showcmd "show command
-set autoindent  "keep auto indenting
 set backspace=indent,eol,start
 set hlsearch    "highlight searched string
 set wildmenu    "display a menu when tabbed a command
